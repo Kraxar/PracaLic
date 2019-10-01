@@ -1,0 +1,2 @@
+1) Aa pomoc¹ cmd przejœæ do foleru z plikiem steam.py
+2) wpisaæ:"python steam.py"
